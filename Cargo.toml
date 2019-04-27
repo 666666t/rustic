@@ -1,0 +1,9 @@
+[package]
+name = "basic-interpreter-2019_04_22"
+version = "0.1.0"
+authors = ["666666t <dajtg6@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+num-traits = "0.2"
+num-derive = "0.2"
