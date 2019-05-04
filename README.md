@@ -4,6 +4,8 @@ BASIC Interpreter written in Rust
 This project intends to be a rewrite of the ArduinoBASIC project using the freedom granted by Rust.
 It aims to be a more professional and usable form of the basic interpreter originally presented in that project.
 
+Current Status: Non-functional. Only code currently executed is LET with single integer statements.
+
 # Installation 
 ```
 git clone https://github.com/666666t/rustic.git
