@@ -1,3 +1,5 @@
+# PROJECT IS NO LONGER IN DEVELOPMENT
+
 # rustic
 BASIC Interpreter written in Rust
 
